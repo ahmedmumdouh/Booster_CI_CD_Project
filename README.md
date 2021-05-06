@@ -1,4 +1,4 @@
-# Booster_CI_CD_Project
+# Booster_CI_CD_Project_Jenkines_Docker_SlackConnect
 
 Create CI/CD pipeline using jenkinsfile to deploy simple django web app as a microservice running on docker container locally
 
